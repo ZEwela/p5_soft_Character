@@ -1,0 +1,15 @@
+{
+  "name": "tutorial_with_toxic",
+  "version": "1.0.0",
+  "description": "my tutorial",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ewelinka",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "toxiclibsjs": "^0.3.3"
+  }
+}
